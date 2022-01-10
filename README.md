@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
    <body> 
        <hd1> <b>Elissa Olivas</b> </hd1>
