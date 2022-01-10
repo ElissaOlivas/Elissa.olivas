@@ -1,1 +1,14 @@
 theme: jekyll-theme-slate
+
+# Layout
+
+show_social: true 
+show_excerpts: true
+show_frame: true
+show_sidebar: false
+
+# Menu
+
+navigation:
+ - {file: "index.html", icon hoe}
+ - {file: "README.md", icon: address-card}
