@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+   <header>
+      <title> Elissa Olivas </title>
+   </header>
    <body> 
        <hd1> <b>Elissa Olivas</b> </hd1>
        <p> Dealer Service Analyst . Multi passionate . Novice Coder </p>
