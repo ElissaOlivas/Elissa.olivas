@@ -3,6 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>Home</title>
+    {% if page.show_sidebar %}
+  <div class="sidebar">
+    sidebar content
+  </div>
+{% endif %}
   </head>
   <body>
     <h1>Hello World!</h1>
