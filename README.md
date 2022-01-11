@@ -6,7 +6,7 @@
       <link rel='stylesheet' href='styles.css'/>
   </head>
    <body>
-      <h1><strong>Dealer Service Analyst . Multi passionate . Novice Coder</strong></h1>
+      <h3><strong>Dealer Service Analyst . Multi passionate . Novice Coder</strong></h3>
     <p> 
        <img src='images/IMG_2427.PNG' width='75' alt='Elissa'/>
        <br>
