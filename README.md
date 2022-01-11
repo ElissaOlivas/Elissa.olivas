@@ -3,7 +3,6 @@
    <head>
       <meta charset='UTF-8'/>
       <title>Elissa Olivas</title>
-      <link rel='stylesheet' href='styles.css'/>
   </head>
    <body>
       <h3><strong>Dealer Service Analyst . Multi passionate . Novice Coder</strong></h3>
