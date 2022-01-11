@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
    <head>
+      <meta charset='UTF-8'/>
       <title>Elissa Olivas</title>
-   </head>
+      <link rel='stylesheet' href='styles.css'/>
+  </head>
    <body>
       <h1><strong>Dealer Service Analyst . Multi passionate . Novice Coder</strong></h1>
     <p> 
