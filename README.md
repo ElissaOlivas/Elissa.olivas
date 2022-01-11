@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
+   <head>
+      <title>Elissa Olivas</title>
+   </head>
    <body>
-       <hd1> Dealer Service Analyst . Multi passionate . Novice Coder </hd1>
+      <h1><strong>Dealer Service Analyst . Multi passionate . Novice Coder</strong></h1>
     <p> 
        <img scr= "images/IMG_2427.jpg" height: 250px width: 190px alt+ "me">
        <br>
