@@ -15,8 +15,8 @@ show_sidebar: false
 # Menu
 
 navigation:
- -{file: "index.html", title:"Home", icon: home}
- -{file: "README.md", title: "About Me", icone: address-card}
+ -{file: "crochet.html", title:"Projects", icon: projects}
+ -{file: "README.md", title: "About Me", icone: Home}
  
  plugins:
  - jekyll-feed
